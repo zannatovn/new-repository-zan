@@ -1,2 +1,4 @@
 # new-repository-zan
-Задание №4
+
+Author: Zannatov Niyaz
+
